@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/soltysinski/PartsUnlimited/_apis/build/status/luk-sol95.calculator?branchName=master)](https://dev.azure.com/soltysinski/PartsUnlimited/_build/latest?definitionId=3&branchName=master)
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
